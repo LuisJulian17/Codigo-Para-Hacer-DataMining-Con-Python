@@ -25,18 +25,19 @@ Para ejecutar este proyecto, necesitarás tener instalado Python 3.6 o superior.
    cd Codigo-Para-Hacer-DataMining-Con-Python
 
 2. Crea un entorno virtual (opcional, pero recomendado):
-python -m venv env
-source env/bin/activate  # En Linux o Mac
-env\Scripts\activate  # En Windows
+   ```bash
+   python -m venv env
+   source env/bin/activate  # En Linux o Mac
+   env\Scripts\activate  # En Windows
 
-3. Instala las librerías necesarias:
+4. Instala las librerías necesarias:
    ```bash
     pip install pandas matplotlib ydata_profiling
    
-4. Uso
+5. Uso
 Asegúrate de estar en el directorio del proyecto y de tener el entorno virtual activado (si lo creaste).
 
-5. Ejecuta el script de Python:
+6. Ejecuta el script de Python:
    ```bash
    python DataMining.py
 
