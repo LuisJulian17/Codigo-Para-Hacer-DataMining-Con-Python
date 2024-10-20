@@ -34,10 +34,10 @@ Para ejecutar este proyecto, necesitarás tener instalado Python 3.6 o superior.
    ```bash
     pip install pandas matplotlib ydata_profiling
    
-5. Uso
+## Uso
 Asegúrate de estar en el directorio del proyecto y de tener el entorno virtual activado (si lo creaste).
 
-6. Ejecuta el script de Python:
+1. Ejecuta el script de Python:
    ```bash
    python DataMining.py
 
