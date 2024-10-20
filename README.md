@@ -8,7 +8,6 @@ Este proyecto utiliza técnicas de **data mining** para analizar un conjunto de 
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Requisitos
 
@@ -37,7 +36,16 @@ env\Scripts\activate  # En Windows
 4. Uso
 Asegúrate de estar en el directorio del proyecto y de tener el entorno virtual activado (si lo creaste).
 
-Ejecuta el script de Python:
+5. Ejecuta el script de Python:
    ```bash
    python DataMining.py
+
+## Contribuciones
+Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Crea tu rama de características (git checkout -b feature/nueva-caracteristica).
+3. Haz tus cambios y haz commit (git commit -m 'Añadir nueva característica').
+4. Haz push a la rama (git push origin feature/nueva-caracteristica).
+5. Abre un Pull Request.
 
